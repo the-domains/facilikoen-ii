@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Facilikoen II]]></title>
+        <description><![CDATA[Facilikoen II]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 09 Jun 2016 12:40:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ 1. Zorg voor een goede website]]></title>
+            <description><![CDATA[<article><h1> 1. Zorg voor een goede website</h1><p>Starten als ZZP'er is spannend, fantastisch en lastig tegelijkertijd. Op 1 april 2014, een jaar geleden, heb ik me bij de KvK ingeschreven als ondernemer. De gezonde spanning die ik toen voelde herinner ik me nog goed, een mooi moment dat ik nooit zal vergeten. Maar de tijd vliegt. Ik ben een jaar verder en krijg het ondernemerschap steeds meer onder de knie. Daarom geef ik je graag 10 tips om je te helpen bij het starten van je eigen bedrijf, zodat je eerste jaar op het onbekende terrein van ZZP-land zo soepel mogelijk verloopt.</p></article>]]></description>
+            <link>undefined1-zorg-voor-een-goede-website/index.html</link>
+            <guid isPermaLink="false">72e462ff-dcd3-4ca6-a2ea-3ae19c6f42b5</guid>
+            <pubDate>Thu, 09 Jun 2016 12:40:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
